@@ -1,0 +1,17 @@
+Manifest-Version: 1.0
+Main-Class: pers.wangying.testsdk.TestSdk
+Class-Path: spring-jcl-6.0.3.jar log4j-to-slf4j-2.19.0.jar spring-core-6
+ .0.3.jar jakarta.annotation-api-2.1.1.jar jackson-core-2.14.1.jar tomca
+ t-embed-core-10.1.4.jar spring-aop-6.0.3.jar jackson-datatype-jsr310-2.
+ 14.1.jar slf4j-api-2.0.6.jar jul-to-slf4j-2.0.6.jar spring-boot-starter
+ -logging-3.0.1.jar jackson-annotations-2.14.1.jar micrometer-commons-1.
+ 10.2.jar jackson-datatype-jdk8-2.14.1.jar jackson-module-parameter-name
+ s-2.14.1.jar spring-boot-starter-json-3.0.1.jar spring-expression-6.0.3
+ .jar spring-context-6.0.3.jar tomcat-embed-websocket-10.1.4.jar spring-
+ boot-3.0.1.jar spring-web-6.0.3.jar micrometer-observation-1.10.2.jar l
+ ogback-classic-1.4.5.jar spring-boot-starter-3.0.1.jar spring-beans-6.0
+ .3.jar spring-boot-starter-web-3.0.1.jar tomcat-embed-el-10.1.4.jar spr
+ ing-boot-starter-tomcat-3.0.1.jar jackson-databind-2.14.1.jar snakeyaml
+ -1.33.jar logback-core-1.4.5.jar spring-webmvc-6.0.3.jar log4j-api-2.19
+ .0.jar spring-boot-autoconfigure-3.0.1.jar
+
